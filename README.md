@@ -33,4 +33,3 @@ The project context includes approximately **400 GWh/year** of current steam sup
 
 **In progress.** A project report and the two modeling deliverables are scheduled for **14 December 2026**. Findings and final recommendations will be added once the study is complete and approved for public sharing.
 
-*No proprietary model code, CIMO datasets, or internal results are published here.*
